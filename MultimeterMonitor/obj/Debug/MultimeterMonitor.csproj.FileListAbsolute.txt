@@ -1,0 +1,11 @@
+C:\Users\MAD_DED\source\repos\MultimeterMonitor\MultimeterMonitor\bin\Debug\MultimeterMonitor.exe.config
+C:\Users\MAD_DED\source\repos\MultimeterMonitor\MultimeterMonitor\bin\Debug\MultimeterMonitor.exe
+C:\Users\MAD_DED\source\repos\MultimeterMonitor\MultimeterMonitor\bin\Debug\MultimeterMonitor.pdb
+C:\Users\MAD_DED\source\repos\MultimeterMonitor\MultimeterMonitor\obj\Debug\MultimeterMonitor.csprojAssemblyReference.cache
+C:\Users\MAD_DED\source\repos\MultimeterMonitor\MultimeterMonitor\obj\Debug\MultimeterMonitor.Form1.resources
+C:\Users\MAD_DED\source\repos\MultimeterMonitor\MultimeterMonitor\obj\Debug\MultimeterMonitor.monitor.resources
+C:\Users\MAD_DED\source\repos\MultimeterMonitor\MultimeterMonitor\obj\Debug\MultimeterMonitor.portSelector.resources
+C:\Users\MAD_DED\source\repos\MultimeterMonitor\MultimeterMonitor\obj\Debug\MultimeterMonitor.Properties.Resources.resources
+C:\Users\MAD_DED\source\repos\MultimeterMonitor\MultimeterMonitor\obj\Debug\MultimeterMonitor.csproj.GenerateResource.cache
+C:\Users\MAD_DED\source\repos\MultimeterMonitor\MultimeterMonitor\obj\Debug\MultimeterMonitor.exe
+C:\Users\MAD_DED\source\repos\MultimeterMonitor\MultimeterMonitor\obj\Debug\MultimeterMonitor.pdb
